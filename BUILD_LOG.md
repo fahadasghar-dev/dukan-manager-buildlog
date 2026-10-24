@@ -9,3 +9,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-21 21:20 - D-196: photo fallback to initials everywhere + payer rating New customer rule
 - 2026-10-24 13:58 - D-204: side menu hover text white
 - 2026-10-24 16:24 - D-205: open menu section no dark background
+- 2026-10-24 17:12 - D-206: decisions on #6 #7 #21 #24 #26
