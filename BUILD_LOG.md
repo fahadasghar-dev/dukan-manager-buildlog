@@ -20,3 +20,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-24 23:31 - D-228: p45 future words + chips; below-cost names (JS message)
 - 2026-10-24 23:36 - D-228: p45 Full payment / Balance words, no overlap, no month badge in table
 - 2026-10-24 23:50 - D-229: money back from advance used + empty box; D-228 v3 p45 summary grid
+- 2026-10-25 00:16 - D-231 no owe wording; p57 amount label; p52 equal cards
