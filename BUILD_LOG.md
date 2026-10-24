@@ -14,3 +14,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-24 20:38 - D-222: compact (first screen, no inner scroll) + D-210 re-applied
 - 2026-10-24 21:12 - D-227: p52 supplier cards + advance story in purchases table, p55 paid from advance
 - 2026-10-24 21:15 - D-229: requirement recorded (supplier refund on cancel)
+- 2026-10-24 21:57 - D-226 G : p23 compact (CSS only, first row on first screen)
