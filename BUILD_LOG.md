@@ -12,3 +12,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-24 17:12 - D-206: decisions on #6 #7 #21 #24 #26
 - 2026-10-24 19:10 - D-207: success messages auto-hide after 5 s (both apps)
 - 2026-10-24 20:38 - D-222: compact (first screen, no inner scroll) + D-210 re-applied
+- 2026-10-24 21:12 - D-227: p52 supplier cards + advance story in purchases table, p55 paid from advance
