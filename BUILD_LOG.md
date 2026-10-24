@@ -16,3 +16,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-24 21:15 - D-229: requirement recorded (supplier refund on cancel)
 - 2026-10-24 21:57 - D-226 G : p23 compact (CSS only, first row on first screen)
 - 2026-10-24 22:04 - D-226 G : p25 rows 15, p63 + p1 compact, p1 chart heights
+- 2026-10-24 22:44 - D-229: p55 money back on Cancel Purchase, p52 ledger
