@@ -7,3 +7,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-20 20:09 - Print fixes: header phone line, display names, Paid-for table aligned, dark-theme print canvas; p10 Remaining set-based
 - 2026-10-20 22:57 - Item 4: wording list for approval (117 rows + 8 money variants), nothing applied
 - 2026-10-21 21:20 - D-196: photo fallback to initials everywhere + payer rating New customer rule
+- 2026-10-24 13:58 - D-204: side menu hover text white
