@@ -30,3 +30,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-25 16:00 - D-243b: assistant speaks plain shop language; consent shown as the profile switch
 - 2026-10-25 16:02 - D-243c: assistant uses only on-screen app words, short answers
 - 2026-10-25 22:51 - D-246: AI assistant 12 new read tools + human tone; WA bot real emoji + shop phone
+- 2026-10-25 23:03 - D-247: p95 title Save fixed (selector matched tab links)
