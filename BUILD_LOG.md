@@ -24,3 +24,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-25 00:52 - D-232 Take advance back (p52); D-229 p55 cancel choice
 - 2026-10-25 13:59 - D-239: galla counts cash paid at purchase (option A); phone menu overlays page; phone floating bot; chat single scroll + bold
 - 2026-10-25 14:06 - D-239: app manual (89 topics) loaded, docs
+- 2026-10-25 14:33 - D-240: galla Cash In, paid from, galla-now warning, autofill label fix
