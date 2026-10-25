@@ -26,3 +26,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-25 14:06 - D-239: app manual (89 topics) loaded, docs
 - 2026-10-25 14:33 - D-240: galla Cash In, paid from, galla-now warning, autofill label fix
 - 2026-10-25 15:01 - D-241: due-today WhatsApp template submitted to Meta
+- 2026-10-25 15:12 - D-242: chatbot new design (marketing look)
