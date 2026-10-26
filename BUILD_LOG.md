@@ -46,3 +46,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-26 21:35 - D-260: redesign - compact installment tiles, customers and stock summary on dashboard
 - 2026-10-26 21:41 - D-260: sub-menu icons in brand colour (dark mode); redesign - coloured KPI cards with trend, graphs moved up
 - 2026-10-26 21:50 - D-260: redesign - dashboard 2|graph|2 top row, lighter cards, thin installment strip; New Sale customer first, tabs, Confirm always visible
+- 2026-10-26 21:55 - D-260: redesign - icons on customers and stock numbers
