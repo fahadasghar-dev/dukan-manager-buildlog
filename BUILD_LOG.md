@@ -40,3 +40,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-26 21:03 - D-260: side-menu sub-item icons; redesign v6 (count tiles, drill-down, charts, colour, split payment)
 - 2026-10-26 21:06 - D-260: redesign - sales by type as stacked bar
 - 2026-10-26 21:09 - D-260: redesign - clear split payment (switch, one line per method, rest auto, live check)
+- 2026-10-26 21:15 - D-260: redesign - split payment checks, TID removed, year on dates, donut legend fix
