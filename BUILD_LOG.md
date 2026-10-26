@@ -60,3 +60,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-26 22:36 - D-260: redesign - map card removed; menu labels white
 - 2026-10-26 22:39 - D-260: redesign - installment summary strip + fold-out schedule table on New Sale
 - 2026-10-26 22:40 - D-260: redesign - plain label for the Other installments field
+- 2026-10-26 23:19 - D-260: redesign - New Sale totals bar under the Bill; Bill + bar stay on screen while scrolling (phone: bar sticks at bottom)
