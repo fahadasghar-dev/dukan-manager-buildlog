@@ -32,3 +32,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-25 22:51 - D-246: AI assistant 12 new read tools + human tone; WA bot real emoji + shop phone
 - 2026-10-25 23:03 - D-247: p95 title Save fixed (selector matched tab links)
 - 2026-10-26 08:59 - D-251: AI model kept on Haiku
+- 2026-10-26 16:44 - D-255: totals after returns, dashboard collection incl. sale cash, one name Advance
