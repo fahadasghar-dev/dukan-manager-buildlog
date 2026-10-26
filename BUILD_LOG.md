@@ -50,3 +50,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-26 21:58 - D-260: redesign - 4 KPI cards back on top, graph + donut below, compact icons
 - 2026-10-26 22:01 - D-260: redesign - KPI card style picker (A one colour, B white, C dark green, D four colours)
 - 2026-10-26 22:05 - D-260: redesign - white top bar, card style B default (A removed), plain shop wording
+- 2026-10-26 22:09 - D-260: redesign - area wise card (list + map sketch), green top bar one shade lighter, light page shade, 'Pending Payments'
