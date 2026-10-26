@@ -53,3 +53,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-26 22:09 - D-260: redesign - area wise card (list + map sketch), green top bar one shade lighter, light page shade, 'Pending Payments'
 - 2026-10-26 22:13 - D-260: redesign - area wise on a real Karachi district map (GADM shapes, shaded by share); top bar / side menu colours swapped
 - 2026-10-26 22:19 - D-260: redesign - area wise on a real OpenStreetMap map with a circle per area; owner's installment tile names restored
+- 2026-10-26 22:25 - D-260: redesign - side menu darker with gradient
