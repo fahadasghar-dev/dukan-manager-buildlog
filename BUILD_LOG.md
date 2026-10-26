@@ -57,3 +57,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-26 22:28 - D-260: redesign - area wise in 2 levels: Pakistan district map shaded by customers, click Karachi for its area map
 - 2026-10-26 22:32 - D-260: redesign - map (buttons, wheel, drag), sharper Karachi map, one-city shops open straight on the city map
 - 2026-10-26 22:34 - D-260: redesign - top bar and side menu in one green family (menu deep gradient, top bar deep to brand green)
+- 2026-10-26 22:36 - D-260: redesign - map card removed; menu labels white
