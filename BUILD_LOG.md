@@ -33,3 +33,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-25 23:03 - D-247: p95 title Save fixed (selector matched tab links)
 - 2026-10-26 08:59 - D-251: AI model kept on Haiku
 - 2026-10-26 16:44 - D-255: totals after returns, dashboard collection incl. sale cash, one name Advance
+- 2026-10-26 20:16 - D-258: dashboard Today's Sales minus returns (feedback)
