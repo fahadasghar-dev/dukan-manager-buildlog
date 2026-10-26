@@ -36,3 +36,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-26 20:16 - D-258: dashboard Today's Sales minus returns (feedback)
 - 2026-10-26 20:36 - D-259: Sales menu; Dashboard + Take Payment redesign proposal
 - 2026-10-26 20:43 - D-259: redesign proposal v2 (deep-green shell, English labels)
+- 2026-10-26 20:49 - D-259: redesign proposal v3 (simple theme, compact cards; checked by screenshot)
