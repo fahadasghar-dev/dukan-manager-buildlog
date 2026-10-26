@@ -63,3 +63,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-26 23:19 - D-260: redesign - New Sale totals bar under the Bill; Bill + bar stay on screen while scrolling (phone: bar sticks at bottom)
 - 2026-10-26 23:27 - D-260: redesign - placeholders removed; '+ Other months' button opens 'Enter months' with its per-month amount
 - 2026-10-26 23:30 - D-260: redesign - one '+ Other months / markup' link opens both fields
+- 2026-10-27 01:12 - D-262 A: customer CNIC photos + guarantors set up once on the customer (p11)
