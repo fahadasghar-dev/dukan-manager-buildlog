@@ -43,3 +43,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-26 21:15 - D-260: redesign - split payment checks, TID removed, year on dates, donut legend fix
 - 2026-10-26 21:21 - D-260: redesign - New Sale screen, installment tiles time, chart period, best sellers
 - 2026-10-26 21:31 - D-260: redesign - installment sale fields, split on New Sale, calmer card colours, received tile, list filters
+- 2026-10-26 21:35 - D-260: redesign - compact installment tiles, customers and stock summary on dashboard
