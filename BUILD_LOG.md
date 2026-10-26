@@ -55,3 +55,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-26 22:19 - D-260: redesign - area wise on a real OpenStreetMap map with a circle per area; owner's installment tile names restored
 - 2026-10-26 22:25 - D-260: redesign - side menu darker with gradient
 - 2026-10-26 22:28 - D-260: redesign - area wise in 2 levels: Pakistan district map shaded by customers, click Karachi for its area map
+- 2026-10-26 22:32 - D-260: redesign - map (buttons, wheel, drag), sharper Karachi map, one-city shops open straight on the city map
