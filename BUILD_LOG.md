@@ -64,3 +64,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-26 23:27 - D-260: redesign - placeholders removed; '+ Other months' button opens 'Enter months' with its per-month amount
 - 2026-10-26 23:30 - D-260: redesign - one '+ Other months / markup' link opens both fields
 - 2026-10-27 01:12 - D-262 A: customer CNIC photos + guarantors set up once on the customer (p11)
+- 2026-10-27 01:58 - D-262 C: New Sale (p31) built from the final mockup - type cards first, most-sold chips, -/+ cart, compact month cards + Other months panel, installment, guarantor chosen from the customer's saved guarantors ( -> .), CNIC photos from the customer, Bill + checklist chips + bar card; typed guarantor / CNIC upload items removed
