@@ -38,3 +38,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-26 20:43 - D-259: redesign proposal v2 (deep-green shell, English labels)
 - 2026-10-26 20:49 - D-259: redesign proposal v3 (simple theme, compact cards; checked by screenshot)
 - 2026-10-26 21:03 - D-260: side-menu sub-item icons; redesign v6 (count tiles, drill-down, charts, colour, split payment)
+- 2026-10-26 21:06 - D-260: redesign - sales by type as stacked bar
