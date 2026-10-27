@@ -67,3 +67,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-27 01:58 - D-262 C: New Sale (p31) built from the final mockup - type cards first, most-sold chips, -/+ cart, compact month cards + Other months panel, installment, guarantor chosen from the customer's saved guarantors ( -> .), CNIC photos from the customer, Bill + checklist chips + bar card; typed guarantor / CNIC upload items removed
 - 2026-10-27 17:36 - D-267: after - + qist counts / left / overdue / next due from
 - 2026-10-27 23:20 - D-269m: p31 Other months panel - 'Rs. X per month' no longer overlaps Other markup (desktop flex row); checked 1366 + phone
+- 2026-10-28 00:46 - D-265 V3: video edit - A customer 16:9 (2:23) + B Meta ad 9:16 / 4:5 (0:43) rendered 4K + 1080p
