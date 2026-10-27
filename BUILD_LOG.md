@@ -71,3 +71,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-28 00:48 - D-269: required * follows the real rule app-wide, p20 stock pill on one line, p46 split method lines one row each
 - 2026-10-28 01:58 - D-270: WhatsApp receipt params - shop phone 0300-xxxxxxx, as-of next installment, read-only
 - 2026-10-28 02:20 - D-271 content: LinkedIn post + showcase video / carousel / 4 WhatsApp status build scripts (media git-ignored)
+- 2026-10-28 02:44 - D-273: feedback notes (location = optional customer detail, field person front screen)
