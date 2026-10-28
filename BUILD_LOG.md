@@ -73,3 +73,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-28 02:20 - D-271 content: LinkedIn post + showcase video / carousel / 4 WhatsApp status build scripts (media git-ignored)
 - 2026-10-28 02:44 - D-273: feedback notes (location = optional customer detail, field person front screen)
 - 2026-10-28 13:15 - D-281: per-shop 'Free shop (no bills)' switch, ON for client shop ####, p17 text, undo script
+- 2026-10-28 23:48 - D-283: p12 Info tab shows the customer photo (thumbnail, click = full size)
