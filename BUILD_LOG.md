@@ -72,3 +72,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-28 01:58 - D-270: WhatsApp receipt params - shop phone 0300-xxxxxxx, as-of next installment, read-only
 - 2026-10-28 02:20 - D-271 content: LinkedIn post + showcase video / carousel / 4 WhatsApp status build scripts (media git-ignored)
 - 2026-10-28 02:44 - D-273: feedback notes (location = optional customer detail, field person front screen)
+- 2026-10-28 13:15 - D-281: per-shop 'Free shop (no bills)' switch, ON for client shop ####, p17 text, undo script
