@@ -75,3 +75,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-28 13:15 - D-281: per-shop 'Free shop (no bills)' switch, ON for client shop ####, p17 text, undo script
 - 2026-10-28 23:48 - D-283: p12 Info tab shows the customer photo (thumbnail, click = full size)
 - 2026-10-29 11:28 - D-291: WhatsApp bot one-line reply when the shop's WhatsApp add-on is off, no alert
+- 2026-10-29 11:42 - D-292: New Customer asks for WhatsApp messages (add-on shops), Messages tab only with add-on
