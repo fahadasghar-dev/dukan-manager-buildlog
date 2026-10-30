@@ -78,3 +78,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-29 11:42 - D-292: New Customer asks for WhatsApp messages (add-on shops), Messages tab only with add-on
 - 2026-10-29 12:01 - D-293 part 1: Send WhatsApp on a computer opens WhatsApp Web in one tab, phone keeps wa.me
 - 2026-10-29 12:46 - D-293: free Send WhatsApp on p33 p12 p43 p46 p52 p57, WhatsApp Web one tab, p12 hidden items fix
+- 2026-10-30 11:47 - D-298b: Back button on Customer Profile (p12) and Supplier Profile (p52)
