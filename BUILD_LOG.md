@@ -80,3 +80,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-29 12:46 - D-293: free Send WhatsApp on p33 p12 p43 p46 p52 p57, WhatsApp Web one tab, p12 hidden items fix
 - 2026-10-30 11:47 - D-298b: Back button on Customer Profile (p12) and Supplier Profile (p52)
 - 2026-10-30 15:29 - D-300: PDF (80 mm) button removed; list print white in dark theme, no columns, wide lists landscape
+- 2026-10-30 15:37 - D-301: phone page header - buttons under title and badges (app-wide)
