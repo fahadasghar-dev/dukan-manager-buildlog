@@ -83,3 +83,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-30 15:37 - D-301: phone page header - buttons under title and badges (app-wide)
 - 2026-10-30 17:19 - D-302: New Sale - Complete profile button for an incomplete customer
 - 2026-10-31 17:51 - D-304: marketing video v5 (Urdu + English) laptop + phone, install scene, 1080p (mp4 ignored)
+- 2026-10-31 20:54 - Business card: website row (www.kafacloud.com)
