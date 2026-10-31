@@ -89,3 +89,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-10-31 22:12 - D-309: website dark-mode screens + smooth full-page scroll
 - 2026-10-31 22:21 - D-308: marketing videos with data-trust shot + website, 1080p MP4 only (mp4 ignored)
 - 2026-11-01 04:07 - D-313: motorcycles one line / one picked piece per bike
+- 2026-11-01 04:56 - D-310: shop videos say every idea once (mp4 ignored)
