@@ -92,3 +92,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-01 04:56 - D-310: shop videos say every idea once (mp4 ignored)
 - 2026-11-01 12:24 - D-315: bike auto pick (FIFO) in the New Sale cart
 - 2026-11-01 12:29 - D-315: client shop bike without number removed from stock
+- 2026-11-01 14:35 - D-316: searchable lists (Select One) for long dropdowns on 40 pages
