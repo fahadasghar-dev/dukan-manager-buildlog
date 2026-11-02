@@ -95,3 +95,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-01 14:35 - D-316: searchable lists (Select One) for long dropdowns on 40 pages
 - 2026-11-01 14:55 - D-317: chat window stays below the header on short laptop screens
 - 2026-11-01 15:35 - D-319: one search box on New Sale (name, barcode, IMEI, chassis)
+- 2026-11-02 22:59 - D-321: installment list phone filters - Area and Collector boxes fit the screen
