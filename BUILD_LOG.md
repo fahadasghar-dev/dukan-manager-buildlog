@@ -97,3 +97,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-01 15:35 - D-319: one search box on New Sale (name, barcode, IMEI, chassis)
 - 2026-11-02 22:59 - D-321: installment list phone filters - Area and Collector boxes fit the screen
 - 2026-11-03 19:56 - D-322: credit sales in customer profile tab and Outstanding Customers filter
+- 2026-11-03 20:09 - D-323: installment list month filter label
