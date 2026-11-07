@@ -17,6 +17,14 @@ It replaces the paper register: sales, installment plans, payments, recovery, ca
 **Try the demo:** [kafacloud.com/demo](https://kafacloud.com/demo) &nbsp;·&nbsp; user `demo` · password `demo1234`
 
 
+## Screens
+
+From the public demo shop (sample data only).
+
+| Dashboard | New installment sale |
+|---|---|
+| ![Dashboard](screens/demo_dashboard.png) | ![New installment sale](screens/demo_new_sale.png) |
+
 ## What it does
 
 - **Sales:** cash, credit (udhaar) and installment in one screen; advance, 3–24 month plans, markup per tenure, guarantors, CNIC photos
