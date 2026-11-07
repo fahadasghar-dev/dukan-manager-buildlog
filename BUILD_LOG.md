@@ -102,3 +102,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-07 16:24 - D-333: New Sale product search list fits its rows (no empty gap, disabled Show More hidden) and stays on screen next to the box; D-332 compact Bill on laptop screens up to 900 px high
 - 2026-11-07 16:26 - D-333: New Sale product search list fits its rows and stays next to the box; Bill compact on small laptops
 - 2026-11-07 20:12 - LinkedIn banner v5: no screenshot, only the systems actually built
+- 2026-11-07 20:14 - LinkedIn banner v6: one message + skills only
