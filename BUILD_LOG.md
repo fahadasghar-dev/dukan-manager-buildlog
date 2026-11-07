@@ -104,3 +104,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-07 20:12 - LinkedIn banner v5: no screenshot, only the systems actually built
 - 2026-11-07 20:14 - LinkedIn banner v6: one message + skills only
 - 2026-11-07 20:15 - LinkedIn banner v7: navy (personal brand), green stays for Dukan Manager
+- 2026-11-07 22:58 - D-338: 37 of 48 database links enabled again; 11 wait for removal of leftover rows
