@@ -106,3 +106,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-07 20:15 - LinkedIn banner v7: navy (personal brand), green stays for Dukan Manager
 - 2026-11-07 22:58 - D-338: 37 of 48 database links enabled again; 11 wait for removal of leftover rows
 - 2026-11-08 13:51 - D-343: free shops no longer see the Pay fees menu
+- 2026-11-08 13:54 - D-343: Retail360 free marts no longer see the Pay fees menu
