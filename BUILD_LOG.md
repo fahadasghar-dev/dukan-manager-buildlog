@@ -108,3 +108,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-08 13:51 - D-343: free shops no longer see the Pay fees menu
 - 2026-11-08 13:54 - D-343: Retail360 free marts no longer see the Pay fees menu
 - 2026-11-10 09:14 - D-403: Retail360 Employees tab - All employees, Attendance, new Salary sheet (salary from attendance, advance, bonus, cut, paid from the galla) and salary on the employee form
+- 2026-11-10 09:36 - D-404: Retail360 Salary sheet - paying more than the salary asks: cut the extra next month (switch on) or keep it as a bonus (switch off)
