@@ -111,3 +111,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-10 09:36 - D-404: Retail360 Salary sheet - paying more than the salary asks: cut the extra next month (switch on) or keep it as a bonus (switch off)
 - 2026-11-10 16:44 - D-415: Retail360 New Purchase shows the stock in hand on every item line
 - 2026-11-11 12:04 - D-445: gate fixes from the browser matrix - Urdu setting labels, family search, P262 protection, phone register cards, radio pills RTL, already-picked-up hint; smoke matrix all PASS
+- 2026-11-11 13:40 - D-446: library + inventory fixes from the smoke (Urdu stock lines, success messages, label print 3x8, desk), landing LIBRARIAN 265 / 278, run orders, change log
