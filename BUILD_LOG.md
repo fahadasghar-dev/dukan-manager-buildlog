@@ -114,3 +114,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-11 13:40 - D-446: library + inventory fixes from the smoke (Urdu stock lines, success messages, label print 3x8, desk), landing LIBRARIAN 265 / 278, run orders, change log
 - 2026-11-12 13:34 - D-451: p15 Subjects and teachers - plain hints instead of bare '-', EN+UR; p15 abort explained and fixed
 - 2026-11-12 13:53 - D-456b: Home p1 single machine card full row on phone (odd last card spans 2 columns)
+- 2026-11-12 14:05 - D-455: app-wide print CSS (Mentora 10005 + 10006), ADMIN product-neutral wording (Customers), phone photo chooser (no camera-only capture)
