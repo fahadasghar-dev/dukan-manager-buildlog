@@ -120,3 +120,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-13 15:33 - D-471: student photo shows again in Edit student; tap any student photo to see it big
 - 2026-11-13 15:46 - D-472: Edit student can move a student only to another section of the same class
 - 2026-11-14 01:28 - D-478 after (part 1): save-once guard (p23, p112, p21), Urdu names CHAR, default categories, p21 fixes
+- 2026-11-14 01:55 - D-478 after (part 2): purchases / returns / store map / products list / count / labels fixes, messages, undo script
