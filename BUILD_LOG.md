@@ -118,3 +118,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-12 16:08 - D-457: face on the machine from the stored photo (, in-DB JPEG copy), Face not matching list on p60
 - 2026-11-12 16:38 - D-462: Urdu dates in /// messages, 24-hour analytics as-of in Urdu, page dates, Urdu read-only box height
 - 2026-11-13 15:33 - D-471: student photo shows again in Edit student; tap any student photo to see it big
+- 2026-11-13 15:46 - D-472: Edit student can move a student only to another section of the same class
