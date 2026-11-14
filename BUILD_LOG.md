@@ -123,3 +123,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-14 01:55 - D-478 after (part 2): purchases / returns / store map / products list / count / labels fixes, messages, undo script
 - 2026-11-14 10:34 - D-482: one-command switch, hourly restore into the standby database
 - 2026-11-14 15:23 - D-485: Contabo remote desktop uses GNOME (Oracle Linux standard desktop)
+- 2026-11-14 16:23 - D-491: Retail360 Take payment lists every customer who owes (dashboard Khata card), search results styled
