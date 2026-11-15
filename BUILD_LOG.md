@@ -127,3 +127,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-15 02:28 - D-495: Retail360 inline dialogs fit the phone screen (Refill list); live on Contabo
 - 2026-11-15 13:33 - D-497: Retail360 POS pay box waits for fast scans; live on Contabo
 - 2026-11-15 14:37 - D-498: Mentora AI assistant (chat + full page 330) on, live on Contabo
+- 2026-11-15 14:55 - D-499: Mentora Paper Builder live on Contabo
