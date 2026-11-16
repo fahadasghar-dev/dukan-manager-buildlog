@@ -129,3 +129,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-15 14:37 - D-498: Mentora AI assistant (chat + full page 330) on, live on Contabo
 - 2026-11-15 14:55 - D-499: Mentora Paper Builder live on Contabo
 - 2026-11-15 16:36 - D-502 after (batch 1): Mentora forms fit one screen - shared, 11 layouts, p73 grid fix, simpler words
+- 2026-11-16 20:54 - D-517: update, promo reels batch 3 (unique features)
