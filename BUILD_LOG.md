@@ -133,3 +133,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-16 23:14 - D-527: Mentora field validations instead of raw errors on 7 forms, visitor CNIC and mobile marked required
 - 2026-11-16 23:27 - D-527: Mentora teacher scope on leave, attendance and exam eligibility pages, office-only Live today, Exam analytics and Substitution, ID card sheets by class, faster barcode labels
 - 2026-11-17 00:02 - D-527: Mentora wave 1 - Urdu settings fix, receipt months paid and reversed stamp, clear voucher columns, route and book copy filters, analytics count only marked days, dialog refresh and success message on every dialog
+- 2026-11-17 00:21 - D-530: Mentora menu follow-up (setup steps first under Setup, office-only entries match page schemes) and Home setup banner
