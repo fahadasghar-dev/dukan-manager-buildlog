@@ -138,3 +138,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-17 00:53 - D-529: Mentora people forms - one student form for new admission and edit (required fields on one screen, father mobile finds the family, optional parts collapsed, field messages at once), menu Admission opens it on the student list, Urdu-name inputs removed with English fallback in lists, family and staff dialogs three fields per row; live on the primary
 - 2026-11-17 01:09 - D-530: Mentora AI assistant real menu names, times, wrapping chips; parent leave form marks every empty field; student My fees explains when the school hides fees
 - 2026-11-17 01:15 - D-530: Mentora school settings on one screen with folding groups and icon header, stock line placeholders, issue list marked, undo note and change log
+- 2026-11-17 10:05 - D-534: Mentora Home p1 slides back - slide 1 = D-528 at a glance, then Classes / Teachers / Arrivals / Machines / Updates (lazy)
