@@ -140,3 +140,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-17 01:15 - D-530: Mentora school settings on one screen with folding groups and icon header, stock line placeholders, issue list marked, undo note and change log
 - 2026-11-17 10:05 - D-534: Mentora Home p1 slides back - slide 1 = D-528 at a glance, then Classes / Teachers / Arrivals / Machines / Updates (lazy)
 - 2026-11-17 16:08 - D-538: Mentora class subjects dialog - subject picker always shown, Add asks to choose a subject instead of a false Subject added, message only when rows were really added, subjects list refreshes after Cancel too
+- 2026-11-18 12:26 - D-545: Mentora page header action buttons in one line on desktop (title shrinks, buttons keep natural width); timetable p140 3 rows -> 1 row in EN and UR
