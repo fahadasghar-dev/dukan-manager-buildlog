@@ -143,3 +143,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-18 12:26 - D-545: Mentora page header action buttons in one line on desktop (title shrinks, buttons keep natural width); timetable p140 3 rows -> 1 row in EN and UR
 - 2026-11-18 12:31 - D-546: Mentora compact page heading on every page (small icon, smaller title, help text on one line, full on hover); Periods page sentence now names Make all periods
 - 2026-11-18 13:16 - reel 21 Mentora dashboard slider + AI assistant: capture script, slider renderer, voice in parts, spec, caption
+- 2026-11-18 14:28 - D-548: Mentora small fixes - p47 Close button; Student 360 action buttons stay beside the photo card; teacher wording on Exams / Papers and Papers shows only the teacher's own classes and subjects; Results card counts computed results only; Urdu phone menu arrows fully inside the drawer; list refresh, settings time check and AI button bottom room verified
