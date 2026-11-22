@@ -150,3 +150,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-21 20:51 - D-564: SchoolPrime phone KPI values wrap instead of being cut, Urdu select-list arrow on the left
 - 2026-11-22 10:53 - D-565: SchoolPrime daily diary - teachers write homework per class and subject with an optional page photo, parents and students see it in the app, principal diary check, optional one message per class a day
 - 2026-11-22 10:57 - D-567: card scan result - GR number aligned on the Urdu screen
+- 2026-11-22 11:46 - D-569: SchoolPrime admission enquiry register (follow-ups, month tiles, Make admission fills the admission form and links the student) and public online admission request per school with spam protection, approve and reject
