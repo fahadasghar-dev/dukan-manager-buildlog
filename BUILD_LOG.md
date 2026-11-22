@@ -152,3 +152,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-22 10:57 - D-567: card scan result - GR number aligned on the Urdu screen
 - 2026-11-22 11:46 - D-569: SchoolPrime admission enquiry register (follow-ups, month tiles, Make admission fills the admission form and links the student) and public online admission request per school with spam protection, approve and reject
 - 2026-11-22 12:49 - D-573: SchoolPrime study material for classes, notice picture or PDF, new-item badges and phone alerts in the parent app
+- 2026-11-22 12:49 - D-574: SchoolPrime birthdays today (Home card, wish to the family, birthday cards), position holders print per class and Home alert for new online admission requests
