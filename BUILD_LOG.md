@@ -149,3 +149,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-21 20:44 - D-562: SchoolPrime bug sweep pages 151-330 + parents app - Urdu paper date format, language switch reload, RTL select arrow, single Back, student tab bar, Urdu bus stop and avatar, school header separator
 - 2026-11-21 20:51 - D-564: SchoolPrime phone KPI values wrap instead of being cut, Urdu select-list arrow on the left
 - 2026-11-22 10:53 - D-565: SchoolPrime daily diary - teachers write homework per class and subject with an optional page photo, parents and students see it in the app, principal diary check, optional one message per class a day
+- 2026-11-22 10:57 - D-567: card scan result - GR number aligned on the Urdu screen
