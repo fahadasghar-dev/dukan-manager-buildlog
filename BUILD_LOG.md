@@ -153,3 +153,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-22 11:46 - D-569: SchoolPrime admission enquiry register (follow-ups, month tiles, Make admission fills the admission form and links the student) and public online admission request per school with spam protection, approve and reject
 - 2026-11-22 12:49 - D-573: SchoolPrime study material for classes, notice picture or PDF, new-item badges and phone alerts in the parent app
 - 2026-11-22 12:49 - D-574: SchoolPrime birthdays today (Home card, wish to the family, birthday cards), position holders print per class and Home alert for new online admission requests
+- 2026-11-23 12:59 - D-576: Retail360 setup wizard print step - logo choice starts on a new row (grid overflow error fixed)
