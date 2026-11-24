@@ -154,3 +154,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-22 12:49 - D-573: SchoolPrime study material for classes, notice picture or PDF, new-item badges and phone alerts in the parent app
 - 2026-11-22 12:49 - D-574: SchoolPrime birthdays today (Home card, wish to the family, birthday cards), position holders print per class and Home alert for new online admission requests
 - 2026-11-23 12:59 - D-576: Retail360 setup wizard print step - logo choice starts on a new row (grid overflow error fixed)
+- 2026-11-24 12:50 - D-578: Retail360 POS discount in Rs or %, purchase Qty on small screens, customer saved once, search box and sticker list layout, salary counted till today
