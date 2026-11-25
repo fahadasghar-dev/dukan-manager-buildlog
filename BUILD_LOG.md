@@ -160,3 +160,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-25 17:24 - D-582: Dukan Manager Take Payment shows and searches the account no
 - 2026-11-25 17:57 - D-583: Dukan Manager Take Payment asks Received by and paper slip no (settings, required when on)
 - 2026-11-25 21:10 - D-585: Customer Profile amount cards load faster
+- 2026-11-25 23:48 - D-591: SchoolPrime compact design layer for all pages and new student page layout (English and Urdu)
