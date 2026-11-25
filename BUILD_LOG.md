@@ -159,3 +159,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-24 17:28 - D-581: Retail360 POS phone screens show Discount in the More menu
 - 2026-11-25 17:24 - D-582: Dukan Manager Take Payment shows and searches the account no
 - 2026-11-25 17:57 - D-583: Dukan Manager Take Payment asks Received by and paper slip no (settings, required when on)
+- 2026-11-25 21:10 - D-585: Customer Profile amount cards load faster
