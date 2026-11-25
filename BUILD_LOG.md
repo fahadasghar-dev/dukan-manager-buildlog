@@ -163,3 +163,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-25 23:48 - D-591: SchoolPrime compact design layer for all pages and new student page layout (English and Urdu)
 - 2026-11-26 00:37 - D-591: Urdu amounts in count cards, exam steps bar, 3 and 5 card rows, one blue for list buttons
 - 2026-11-26 02:15 - D-592: SchoolPrime dialogs in app colours, Urdu switch and 15 Urdu script messages fixed, family page layout
+- 2026-11-26 03:33 - D-592: Urdu dialog spacing, functional and print checks, progress notes
