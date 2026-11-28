@@ -172,3 +172,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-28 19:15 - D-602: SchoolPrime Hifz chip on Student 360, Hifz students count line
 - 2026-11-28 20:50 - D-604: SchoolPrime professional fee receipt (A4 two copies, 80 mm slip); paper 4-line rows equal width with gaps
 - 2026-11-28 21:17 - D-605: SchoolPrime My pictures in the paper picture picker, drawn KG body pictures, menu arrow visible on hover
+- 2026-11-28 23:59 - D-606: SchoolPrime Urdu button types whole words from the name dictionary, text never under the button
