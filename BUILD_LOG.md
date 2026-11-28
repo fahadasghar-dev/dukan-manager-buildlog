@@ -167,3 +167,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-28 12:37 - D-597: SchoolPrime substitution page Assign and Not away links work; teacher marked not away ends that day's substitutions
 - 2026-11-28 15:32 - D-598: SchoolPrime paper builder - class sections list, MCQ choices, exact photo reading, AI fix of a made paper; AI menu at the bottom
 - 2026-11-28 16:40 - D-598: SchoolPrime paper layouts - table and picture parts, half width, English 4-line rows, start choice, part colours; AI menu item hidden
+- 2026-11-28 17:51 - D-598: SchoolPrime Urdu name boxes - typing button and hint on every form
