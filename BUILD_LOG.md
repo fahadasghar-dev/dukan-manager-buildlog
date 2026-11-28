@@ -165,3 +165,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-26 02:15 - D-592: SchoolPrime dialogs in app colours, Urdu switch and 15 Urdu script messages fixed, family page layout
 - 2026-11-26 03:33 - D-592: Urdu dialog spacing, functional and print checks, progress notes
 - 2026-11-28 12:37 - D-597: SchoolPrime substitution page Assign and Not away links work; teacher marked not away ends that day's substitutions
+- 2026-11-28 15:32 - D-598: SchoolPrime paper builder - class sections list, MCQ choices, exact photo reading, AI fix of a made paper; AI menu at the bottom
