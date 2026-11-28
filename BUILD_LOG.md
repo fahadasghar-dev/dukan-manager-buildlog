@@ -164,3 +164,4 @@ Every change to Dukan Manager, with its date. Client names are hidden and the so
 - 2026-11-26 00:37 - D-591: Urdu amounts in count cards, exam steps bar, 3 and 5 card rows, one blue for list buttons
 - 2026-11-26 02:15 - D-592: SchoolPrime dialogs in app colours, Urdu switch and 15 Urdu script messages fixed, family page layout
 - 2026-11-26 03:33 - D-592: Urdu dialog spacing, functional and print checks, progress notes
+- 2026-11-28 12:37 - D-597: SchoolPrime substitution page Assign and Not away links work; teacher marked not away ends that day's substitutions
